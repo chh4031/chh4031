@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Javascript-FFD400?style=flat-square&logo=Javascript&logoColor=black"/></a>
 
-<div align=center>
+<div align="center">
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=chh4031&show_icons=true&theme=dark)](https://github.com/chh4031)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chh4031&layout=compact&theme=dark)
 </div>
