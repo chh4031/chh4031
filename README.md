@@ -8,6 +8,7 @@
 <img src="https://img.shields.io/badge/-Javascript-FFD400?style=flat-square&logo=Javascript&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Mysql-E6B91E?style=for-the-badge&logo=MySql&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></a>
 
 -----
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=chh4031&show_icons=true&theme=dark)](https://github.com/chh4031)
